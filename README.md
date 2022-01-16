@@ -1,3 +1,3 @@
 # Slayer
 
-3DScriptProgramming
+3D Script Programming
